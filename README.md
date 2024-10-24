@@ -1,2 +1,2 @@
-echo "# Main" >> README.md
+echo "# Main"
 hi there, i am a Developer, Designer
